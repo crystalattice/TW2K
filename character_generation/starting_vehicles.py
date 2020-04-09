@@ -1,0 +1,20 @@
+starting_vehicles = (
+    "3/4 ton truck",
+    "3/4 ton truck",
+    "Hummer",
+    "Hummer",
+    "Hummer",
+    "2 1/2 ton truck",
+    "2 1/2 ton truck",
+    "5 ton truck",
+    "5 ton tanker truck",
+    "LAV-25",
+    "M113",
+    "8 ton truck",
+    "M2 Bradley",
+    "LAV-75",
+    "M1 Abrams",
+    "ADATS",
+    "M1A1 Abrams",
+    "M1A2 Abrams"
+)
